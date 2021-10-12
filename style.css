@@ -1,0 +1,233 @@
+.container{
+  width: 1100px;
+  height: 120px;
+  position: relative;
+  background-color: ;
+}
+.container2{
+  width: 1100px;
+  height: 65px;
+  position: relative;
+  background-color: ;
+}
+.container3{
+  width: 1100px;
+  height: 820px;
+  position: relative;
+  background-color: ;
+}
+.container4{
+  width: 1100px;
+  height: 120px;
+  position: relative;
+  background-color: ;
+}
+.container5{
+  width: 1100px;
+  height: 200px;
+  position: relative;
+  background-color: ;
+}
+
+.satua{
+  width: 160px;
+  height: 100px;
+  position: absolute ;
+}
+.satub{
+  width: 740px;
+  height: 100px;
+  margin-left: 180px;
+  position: absolute;
+}
+.satuc{
+  width: 160px;
+  height: 100px;
+  
+  position: absolute;
+}
+.duaa{
+  width: 1100px;
+  height: 45px;
+  position: absolute;
+  background-color: royalblue;
+}
+.tigac{
+  width: 160px;
+  height: 800px;
+  position: absolute;
+}
+.tigac1{
+  width: 160px;
+  height: 490px;
+}
+.tigac2{
+  width: 160px;
+  height: 290px;
+  margin-top: 20px;
+}
+.tigab{
+  width: 740px;
+  height: 800px;
+  margin-left: 180px;
+  position: absolute;
+}
+.tigab1{
+  width: 700x;
+  height: 300px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tigab2{
+  width: 220px;
+  height: 120px;
+  margin-left: 20px;
+  position: absolute;
+}
+.tigab3{
+  width: 220px;
+  height: 120px;
+  margin-left: 260px;
+  position: absolute;
+}
+.tigab4{
+  width: 220px;
+  height: 120px;
+  margin-left: 500px;
+}
+.tigab5{
+  width: 700x;
+  height: 300px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tigaa{
+  width: 160px;
+  height: 800px;
+  position: absolute;
+}
+.tigaa1{
+  width: 160px;
+  height: 490px;
+}
+.tigaa2{
+  width: 160px;
+  height: 290px;
+  margin-top: 20px;
+}
+.empat1{
+  width: 1100px;
+  height: 100px;
+  position: absolute;
+}
+.empat2{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.empat3{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 190px;
+  position: absolute;
+}
+.empat4{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 370px;
+  position: absolute;
+}
+.empat5{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-right: 380px;
+  position: absolute;
+}
+.empat6{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-right: 200px;
+  position: absolute;
+}
+.empat7{
+  width: 170px;
+  height: 80px;
+  margin-top: 10px;
+  margin-right: 10px;
+  position: absolute;
+}
+.lima1{
+  width: 1100px;
+  height: 200px;
+  position: absolute;
+}
+.lima2{
+  width: 345px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.lima3{
+  width: 235px;
+  height: 180px;
+  margin-top: 10px;
+  margin-left: 365px;
+  position: absolute;
+}
+.lima4{
+  width: 235px;
+  height: 180px;
+  margin-top: 10px;
+  margin-right: 255px;
+  position: absolute;
+}
+.lima5{
+  width: 235px;
+  height: 180px;
+  margin-top: 10px;
+  margin-right: 10px;
+  position: absolute;
+}
+
+.top{
+  top: 0;
+}
+.left{
+  left: 0;
+}
+.right{
+  right: 0;
+}
+.bg-lblue{
+  background-color: lightblue;
+}
+.bg-cblue{
+  background-color: CornflowerBlue;
+}
+.bg-mgreen{
+  background-color: MediumSeaGreen;
+}
+.bg-nj{
+  background-color: navajowhite;
+}
+.bg-bviolet{
+  background-color: blueviolet;
+}
+.bg-gyellow{
+  background-color: greenyellow;
+}
+.bg-plum{
+  background-color: darkviolet;
+}
+.bg-violet{
+  background-color: violet;
+}
